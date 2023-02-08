@@ -1,8 +1,46 @@
-DAY   1
+EXPERIMENT 3:VULNERABILITY ACCSESS SCNA USING NESSUS
+
+
+STEP 1
+![image](https://user-images.githubusercontent.com/113325376/217538588-56ab6c86-69c4-4c14-8742-c82dd721f998.png)
+STEP 2
+![image](https://user-images.githubusercontent.com/113325376/217538640-738a8fed-6999-4fb9-81c3-8c0c79be7387.png)
+STEP 3
+![image](https://user-images.githubusercontent.com/113325376/217538682-3f58da4c-344b-48b1-ad5a-dd61d5cc4900.png)
+STEP 4
+![image](https://user-images.githubusercontent.com/113325376/217538741-02b52b99-47ad-4232-837c-a3f1df39fbee.png)
+STEP 5
+![image](https://user-images.githubusercontent.com/113325376/217538857-148e3d83-5beb-42d4-9078-f0bc940c9d10.png)
+STEP 6
+![image](https://user-images.githubusercontent.com/113325376/217538907-9ac4a905-a8d1-4212-920f-e6901a1a0d4e.png)
+STEP 7
+![image](https://user-images.githubusercontent.com/113325376/217538982-fc1e39af-9d7e-495c-a8e6-88f0948fbd53.png)
+STEP 8
+![image](https://user-images.githubusercontent.com/113325376/217539060-4f0c6bfd-61b5-4edc-9380-06796816817f.png)
+STEP 9
+![image](https://user-images.githubusercontent.com/113325376/217539119-dd64e3a3-56d9-4dc8-a09a-97e5ff34aff8.png)
 
 
 
-EXEPERIMENT 7
+
+
+EXPERIMENT 5:INFORMATION GATHERING USING THE HARVESTER
+
+
+STEP 1
+![image](https://user-images.githubusercontent.com/113325376/217540180-a0443d23-b88f-43fa-bbc5-bbd9d358858b.png)
+STEP 2
+![image](https://user-images.githubusercontent.com/113325376/217540808-d1de8130-f36b-4f3c-90a9-6113e1595114.png)
+STEP 3
+![image](https://user-images.githubusercontent.com/113325376/217540759-c533a20e-dda5-4851-9b84-0861076b4840.png)
+
+
+
+
+
+
+
+EXEPERIMENT 7:USE GOOGLE AND WHOIS RECONNAISANCE
 
 
 STEP 1
@@ -44,8 +82,31 @@ STEP 2
 STEP 3
 ![image](https://user-images.githubusercontent.com/113325376/217536554-7f77ee8c-20a6-4549-8ca1-ff780c892514.png)
 STEP 4
-![Uploading image.png…]()
+![image](https://user-images.githubusercontent.com/113325376/217537020-843916c4-d383-4155-958e-f6f2aff08557.png)
 
 
 
-EX
+
+EXPERIMENT 10
+
+
+
+STEP 1
+![image](https://user-images.githubusercontent.com/113325376/217537637-8270f592-bf55-4c7f-af32-17ca784d0098.png)
+STEP 2
+![image](https://user-images.githubusercontent.com/113325376/217537772-090350fb-d065-4329-ae8e-7a967d57e347.png)
+STEP 3
+![image](https://user-images.githubusercontent.com/113325376/217537871-ae47f02e-f2ea-4a0d-bce1-a14bb4c127e2.png)
+STEP 4
+![image](https://user-images.githubusercontent.com/113325376/217537970-82440a50-0c9d-41a6-bf89-54e49e1ae89d.png)
+STEP 5
+![image](https://user-images.githubusercontent.com/113325376/217538165-73f5aff8-50f9-430d-a879-ac1b477d545f.png)
+
+
+
+
+
+
+
+
+
