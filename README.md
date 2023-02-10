@@ -10,6 +10,12 @@ STEP 3:
 STEP 4:
 ![image](https://user-images.githubusercontent.com/113325376/218004639-a397db0f-d76a-4f3a-880a-5f3031015bd8.png)
 
+Experiment 2:batch file execution
+
+step 1:
+![Screenshot (124)](https://user-images.githubusercontent.com/113325376/218014921-cf3ea801-08d2-41e5-be88-81486e4b51a7.png)
+STEP 2:
+![Screenshot (125)](https://user-images.githubusercontent.com/113325376/218015021-9b9ac8e8-b378-4729-a62f-0828dab79d3b.png)
 
 
 
@@ -36,6 +42,9 @@ STEP 9
 ![image](https://user-images.githubusercontent.com/113325376/217539119-dd64e3a3-56d9-4dc8-a09a-97e5ff34aff8.png)
 
 
+
+EXPERIMENT 4: LINUX COMMANDS
+![image](https://user-images.githubusercontent.com/113325376/218015236-cf24ac4f-215c-4283-9b2f-0dfe0a65e1c5.png)
 
 
 
